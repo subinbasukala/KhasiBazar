@@ -1,0 +1,5 @@
+total 0
+drwxr-xr-x   4 alen  staff  136 Mar 12 23:36 .
+drwxr-xr-x+ 22 alen  staff  748 Mar 12 23:34 ..
+drwxr-xr-x   6 alen  staff  204 Mar 12 23:34 .git
+-rw-r--r--   1 alen  staff    0 Mar 12 23:36 test.txt
